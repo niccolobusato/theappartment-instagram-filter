@@ -1,2 +1,2 @@
-# theappartment-instgram-filter
+# theappartment-instagram-filter
  @thappartmentbasic instagram filter
